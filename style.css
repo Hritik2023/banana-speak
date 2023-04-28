@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;1,300;1,600&display=swap');
 
-
 :root {
     --primary-color: #eab308;
 }
 
 body {
     font-family: 'Nunito Sans', sans-serif;
+    
 }
 
 textarea {
@@ -19,12 +19,12 @@ textarea {
     padding: 2% 2%;
 }
 
-
 .nav-container {
     background-color: var(--primary-color);
     padding: 1% 1%;
     text-align: center;
     border-bottom-left-radius: 1rem;
+
     display: block;
     width : 100%;
 }
